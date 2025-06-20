@@ -33,5 +33,5 @@ Ejecuta la clase Main.java
 ```
 
 ## 👤 Autor
-MasseDev
+Masse
 
