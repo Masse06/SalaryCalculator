@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled classes
+/out/
+build/
+target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Maven / Gradle wrapper logs and caches
+.mvn/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
+
+# Ignore compiled Java files
+*.class
+
+# User-specific files
+*.iws
+*.ipr
+*.swp
+
+# Ignore environment files
+.env
